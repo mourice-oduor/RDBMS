@@ -1,0 +1,7 @@
+https://www.javatpoint.com/sql-server-tutorial
+https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
+https://www.sqlservertutorial.net/
+https://www.jetbrains.com/help/go/db-tutorial-connecting-to-ms-sql-server.html?gclid=Cj0KCQiA3Y-ABhCnARIsAKYDH7uNJdVG60sjSMFSPr2wn5T4roTUHBFD5gPZ-ibEM0aSSI3IyhmgoO0aAtp2EALw_wcB#step-1-configure-the-sql-server-configuration-manager
+https://www.guru99.com/ms-sql-server-tutorial.html
+https://www.pluralsight.com/courses/cross-platform-sql-server-management-developers-vs-code?aid=7010a000002LUv2AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=XYZ_EMEA_Dynamic&utm_content=&gclid=Cj0KCQiA3Y-ABhCnARIsAKYDH7vRmZAfJP3bJ3X6tl2mSuDq6NExpcDCBSK_3L9A4wbsev945L3o-bkaAlQWEALw_wcB
+
