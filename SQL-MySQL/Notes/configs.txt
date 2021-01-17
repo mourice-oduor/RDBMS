@@ -1,0 +1,41 @@
+USING SQL ON LINUX:
+sudo mysql_secure_installation
+
+mysql-workbench-community
+https://dev.mysql.com/doc/workbench/en/
+https://dev.mysql.com/doc/workbench/en/wb-getting-started-tutorial-create-connection.html
+https://linuxhint.com/install_mysql_workbench_ubuntu/
+
+#####################################################################################################################
+MySQL Configuration
+    MySQL Version:  5.7
+    Settings Template:  Generic Linux (MySQL tar package)
+    Path to Configuration File:  /etc/my.cnf
+    Instance Name in Configuration File:  mysqld
+
+Commands for MySQL Management
+    Start MySQL:  /etc/init.d/mysql start
+    Stop MySQL:  /etc/init.d/mysql stop
+    Use sudo:  Yes
+######################################################################################################################
+
+https://stackoverflow.com/questions/41645309/mysql-error-access-denied-for-user-rootlocalhost
+sudo service mysql start
+sudo mysql -v
+
+Test Root User MySQL Access:
+                            sudo mysql -u root -p
+                            CREATE DATABASE mydb1 CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+                            CREATEUSER 'mydbuser1'@'localhost' IDENTIFIED BY 'pass2020';
+                            GRANT ALL PRIVILLEGES ON mydb1.* TO 'mydbuser1'@'localhost'
+                            >>UPDATE user SET Password=PASSWORD('newpassword') Where user=mydbuser1
+                            
+In case of the "DENIED ACCESS ERROR!!!":
+                                        https://dev.mysql.com/doc/refman/5.7/en/alter-user.html#alter-user-password-management
+                                        
+         USE:
+             sudo mysql
+             ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root';
+                      
+>>>With a single query we are changing the auth_plugin to mysql_native_password and setting the root password to 'root'
+>>>Now you should be able to login with root. 

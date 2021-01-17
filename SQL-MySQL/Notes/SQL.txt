@@ -1,0 +1,25 @@
+https://www.mikedane.com/databases/sql/creating-company-database/
+https://www.mygreatlearning.com/academy/learn-for-free/courses/build-a-bank-database-using-sql?utm_source=youtube&utm_medium=yt_livechat&utm_campaign=bankdbusingsql_lm&arz=1
+https://www.youtube.com/watch?v=Q118wAXkelM
+https://github.com/debugmodedotnet/sqlservernodejsrestapi
+https://github.com/areed1192/sigma_coding_youtube/blob/master/t%20sql/Making%20API%20Requests.sql
+https://github.com/NZMSA/2019-Phase-1/tree/master/Databases%20%26%20API
+
+https://stackoverflow.com/questions/16325607/cant-connect-to-local-mysql-server-through-socket-tmp-mysql-sock
+https://tableplus.com/blog/2018/08/solved-cant-connect-to-local-mysql-server-through-socket.html#:~:text=It%20means%20either%20the%20MySQL,of%20solutions%20for%20this%20error.&text=Then%20try%20to%20connect%20again.
+https://dev.mysql.com/doc/refman/8.0/en/can-not-connect-to-server.html
+
+###########    INTRO        ##################
+https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
+https://dev.mysql.com/doc/
+https://www.javatpoint.com/sql-tutorial
+https://www.guru99.com/sql.html
+https://www.khanacademy.org/computing/computer-programming/sql
+https://www.w3schools.com/sql/sql_intro.asp
+https://www.postgresql.org/docs/9.3/sql.html
+
+SCHEMA:
+       https://www.geeksforgeeks.org/create-schema-in-sql-server/
+       https://www.sqlshack.com/a-walkthrough-of-sql-schema/
+A SQL database contains multiple objects such as tables, views, stored procedures, functions, indexes, triggers. We define SQL Schema as a logical collection of database objects. A user owns that owns the schema is known as schema owner. It is a useful mechanism to segregate database objects for different applications, access rights, managing security administration of databases. We do not have any restrictions on the number of objects in a schema.
+       
