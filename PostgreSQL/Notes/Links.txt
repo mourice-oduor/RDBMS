@@ -1,0 +1,4 @@
+https://www.postgresql.org/
+https://azure.microsoft.com/en-us/services/postgresql/?&ef_id=Cj0KCQiA3Y-ABhCnARIsAKYDH7sc0jqHxPGPij9bXpNwCd8jglGwdYEUAEgCofi7rIQassQiZ47DMWYaAoUDEALw_wcB:G:s&OCID=AID2100630_SEM_Cj0KCQiA3Y-ABhCnARIsAKYDH7sc0jqHxPGPij9bXpNwCd8jglGwdYEUAEgCofi7rIQassQiZ47DMWYaAoUDEALw_wcB:G:s&dclid=CjgKEAiA3Y-ABhDdq-Dxxd6itHgSJAC5RgsWcB30bMwSS4sK9fbKSuu_okGcCfZ91v2vW8TaEgqucvD_BwE#features
+https://www.javatpoint.com/postgresql-tutorial
+https://www.guru99.com/postgresql-tutorial.html
